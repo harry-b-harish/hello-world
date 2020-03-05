@@ -1,2 +1,6 @@
 # hello-world
-This if my first repository in github
+
+Hi friends!
+
+Harish here, I like Python, Open Matrix Language (OML).
+Currently, I'm developing Machine Learning Toolbox for OML. 
